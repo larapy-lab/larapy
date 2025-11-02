@@ -1,0 +1,23 @@
+{
+  "welcome": "Bienvenue dans notre application !",
+  "hello": "Bonjour, :name !",
+  "goodbye": "Au revoir, :name. À bientôt !",
+  "user": {
+    "profile": "Profil Utilisateur",
+    "settings": "Paramètres du Compte",
+    "notifications": "Notifications"
+  },
+  "items_count": "{0} Aucun élément|{1} Un élément|[2,*] :count éléments",
+  "notifications_count": "{0} Vous n'avez aucune notification|{1} Vous avez une notification|[2,*] Vous avez :count notifications",
+  "days_remaining": "{1} :count jour restant|[2,*] :count jours restants",
+  "success": {
+    "created": "Créé avec succès !",
+    "updated": "Mis à jour avec succès !",
+    "deleted": "Supprimé avec succès !"
+  },
+  "errors": {
+    "not_found": "Ressource introuvable.",
+    "unauthorized": "Vous n'êtes pas autorisé à effectuer cette action.",
+    "server_error": "Une erreur s'est produite. Veuillez réessayer plus tard."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "required": "The :attribute field is required.",
+  "string": "The :attribute must be a string.",
+  "integer": "The :attribute must be an integer.",
+  "numeric": "The :attribute must be a number.",
+  "email": "The :attribute must be a valid email address.",
+  "url": "The :attribute must be a valid URL.",
+  "min": {
+    "numeric": "The :attribute must be at least :min.",
+    "string": "The :attribute must be at least :min characters.",
+    "array": "The :attribute must have at least :min items."
+  },
+  "max": {
+    "numeric": "The :attribute must not be greater than :max.",
+    "string": "The :attribute must not be greater than :max characters.",
+    "array": "The :attribute must not have more than :max items."
+  },
+  "between": {
+    "numeric": "The :attribute must be between :min and :max.",
+    "string": "The :attribute must be between :min and :max characters.",
+    "array": "The :attribute must have between :min and :max items."
+  },
+  "in": "The selected :attribute is invalid.",
+  "not_in": "The selected :attribute is invalid.",
+  "confirmed": "The :attribute confirmation does not match.",
+  "same": "The :attribute and :other must match.",
+  "different": "The :attribute and :other must be different.",
+  "unique": "The :attribute has already been taken.",
+  "exists": "The selected :attribute is invalid.",
+  "date": "The :attribute is not a valid date.",
+  "date_format": "The :attribute does not match the format :format.",
+  "before": "The :attribute must be a date before :date.",
+  "after": "The :attribute must be a date after :date.",
+  "regex": "The :attribute format is invalid.",
+  "alpha": "The :attribute may only contain letters.",
+  "alpha_dash": "The :attribute may only contain letters, numbers, dashes and underscores.",
+  "alpha_num": "The :attribute may only contain letters and numbers.",
+  "boolean": "The :attribute field must be true or false.",
+  "json": "The :attribute must be a valid JSON string.",
+  "array": "The :attribute must be an array.",
+  "size": {
+    "numeric": "The :attribute must be :size.",
+    "string": "The :attribute must be :size characters.",
+    "array": "The :attribute must contain :size items."
+  },
+  "attributes": {
+    "email": "email address",
+    "password": "password",
+    "name": "name",
+    "username": "username",
+    "phone": "phone number",
+    "address": "address",
+    "city": "city",
+    "state": "state",
+    "zip": "ZIP code",
+    "country": "country"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "welcome": "Welcome to our application!",
+  "hello": "Hello, :name!",
+  "goodbye": "Goodbye, :name. See you soon!",
+  "user": {
+    "profile": "User Profile",
+    "settings": "Account Settings",
+    "notifications": "Notifications"
+  },
+  "items_count": "{0} No items|{1} One item|[2,*] :count items",
+  "notifications_count": "{0} You have no notifications|{1} You have one notification|[2,*] You have :count notifications",
+  "days_remaining": "{1} :count day remaining|[2,*] :count days remaining",
+  "success": {
+    "created": "Successfully created!",
+    "updated": "Successfully updated!",
+    "deleted": "Successfully deleted!"
+  },
+  "errors": {
+    "not_found": "Resource not found.",
+    "unauthorized": "You are not authorized to perform this action.",
+    "server_error": "An error occurred. Please try again later."
+  }
+}
