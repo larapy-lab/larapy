@@ -9,7 +9,7 @@ description = "A Larapy application"
 requires-python = ">=3.11"
 
 dependencies = [
-    "larapy-framework>=0.9.0,<1.0.0",
+    "larapy_framework>=0.9.0,<1.0.0",
     "uvicorn[standard]>=0.24.0",
 ]
 
